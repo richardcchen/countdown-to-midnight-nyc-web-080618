@@ -2,7 +2,8 @@
 
 def countdown (int)
   while int > 0
-    puts "HAPPY NEW YEAR!"
     int -= 1
+    puts "HAPPY NEW YEAR!"
+    
   end
 end
